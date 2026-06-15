@@ -8,3 +8,5 @@ print("Numbers:", numbers)
 print("Highest:", highest)
 print("Lowest:", lowest)
 print("Average:", average)
+
+print("Program executed successfully")
